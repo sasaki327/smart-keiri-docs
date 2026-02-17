@@ -23,6 +23,36 @@
 ### コンセプト：現場で止まらないUX
 大手SaaSのような多機能さではなく、**「経理1名・社長兼務」** の現場で、月末の事務作業を確実に終わらせるための「迷わない仕組み」を提供します。
 
+## 📸 Screen Shots (Actual UI)
+
+### 📱 OJI-UX (Mobile Experience)
+「老眼でも裸眼で使える」を追求した、独自のインターフェース設計です。
+
+<table>
+  <tr>
+    <th width="33%">1. Home & Camera</th>
+    <th width="33%">2. Standard Mode</th>
+    <th width="33%">3. 👴 OJIスイッチ</th>
+  </tr>
+  <tr>
+    <!-- ここで images フォルダの中身を指定します -->
+    <td align="center"><img src="images/home.png" width="200" alt="Home Screen"></td>
+    <td align="center"><img src="images/std.png" width="200" alt="Standard View"></td>
+    <td align="center"><img src="images/oji.png" width="200" alt="Giant View"></td>
+  </tr>
+  <tr>
+    <td align="center">迷わず押せる巨大な撮影ボタン<br>（親指操作に最適化）</td>
+    <td align="center">一般的なSaaSの文字サイズ<br>（若手社員向け）</td>
+    <td align="center"><b>スイッチONで文字が極大化</b><br>コントラストも自動調整</td>
+  </tr>
+</table>
+
+### 💻 Dashboard & AI Analysis (PC View)
+経理担当者向けの管理画面は、視認性と情報の網羅性を両立させています。
+
+<!-- PC画面は幅広なのでそのまま表示 -->
+⭐️画面準備中
+
 ---
 
 ## 🚀 主な機能 (Features)
