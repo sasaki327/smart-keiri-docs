@@ -49,10 +49,8 @@
 
 ### 💻 Dashboard & AI Analysis (PC View)
 経理担当者向けの管理画面は、視認性と情報の網羅性を両立させています。
-
+<img src="images/dashboard.png" width="100%" alt="Dashboard PC View">
 <!-- PC画面は幅広なのでそのまま表示 -->
-⭐️画面準備中
-
 ---
 
 ## 🚀 主な機能 (Features)
