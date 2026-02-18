@@ -5,12 +5,12 @@
 ![Gemini](https://img.shields.io/badge/AI-Gemini_3.0_Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In_Production-success?style=for-the-badge)
 
-> **⚠️ Note: This repository contains documentation only.**
+> **⚠️ これはデモです。実際のセールスは行っていません。**
+> **Note: This repository contains documentation only.**
 > 
 > 本レポジトリは、**SMART KEIRI** の仕様・設計思想・リリースノートを公開するためのドキュメント用レポジトリです。
 > ソースコード本体は、セキュリティおよび商用ライセンスの都合上、Privateレポジトリにて厳重に管理・運用されています。
->
-> これはデモです。実際のセールスは行っていません。
+
 
 ---
 
