@@ -1,4 +1,4 @@
-# SMART KEIRI｜スマート経理
+# SMART KEIRI｜スマート経理　
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-5.x-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -6,11 +6,11 @@
 ![Status](https://img.shields.io/badge/Status-In_Production-success?style=for-the-badge)
 
 > **⚠️ Note: This repository contains documentation only.**
->
+> 
 > 本レポジトリは、**SMART KEIRI** の仕様・設計思想・リリースノートを公開するためのドキュメント用レポジトリです。
 > ソースコード本体は、セキュリティおよび商用ライセンスの都合上、Privateレポジトリにて厳重に管理・運用されています。
 >
-> 導入のご相談やデモ環境の試用については、[Wantedlyプロフィール](ここにあなたのWantedlyのURLを貼ってください) 経由でお問い合わせください。
+> これはデモです。実際のセールスは行っていません。
 
 ---
 
@@ -147,8 +147,4 @@ smart-keiri/
 ## 📬 Contact / 導入のご相談
 
 本システムは、設計から運用保守までを一貫して提供する **「顔の見えるSaaS」** です。
-運用方針や価格感に共感いただける企業様に向けて、**Wantedly** にて詳細を公開しています。
-
-デモ環境のご案内も可能ですので、下記よりお気軽にご連絡ください。
-
-[👉 **Wantedly プロフィール・お問い合わせはこちら**](ここにあなたのWantedlyのURLを貼ってください)
+現在はデモとして構築しており、セールスは行っていません。
