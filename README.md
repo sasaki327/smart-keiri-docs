@@ -26,12 +26,12 @@
 ## 📸 スクリーンショット
 
 ### 📱 OJI-UX (Mobile Experience)
-「老眼でも裸眼で使える」を追求した、独自のインターフェース設計です。
+「視認性を極限まで高めること」を追求した、独自のインターフェース設計です。
 
 <table>
   <tr>
     <th width="33%">1. Home & Camera</th>
-    <th width="33%">2. Standard Mode</th>
+    <th width="33%">2. 通常モード</th>
     <th width="33%">3. 👴 OJIスイッチ</th>
   </tr>
   <tr>
@@ -41,15 +41,16 @@
     <td align="center"><img src="images/oji.png" width="200" alt="Giant View"></td>
   </tr>
   <tr>
-    <td align="center">迷わず押せる巨大な撮影ボタン<br>（親指操作に最適化）</td>
-    <td align="center">一般的なSaaSの文字サイズ<br>（若手社員向け）</td>
-    <td align="center"><b>スイッチONで文字が極大化</b><br>コントラストも自動調整</td>
+    <td align="center">迷わず押せる撮影ボタン</td>
+    <td align="center">一般的なSaaSの文字サイズ</td>
+    <td align="center">スイッチONで文字が極大化</td>
   </tr>
 </table>
 
-### 💻 Dashboard & AI Analysis (PC View)
+### 💻 ダッシュボード (PC View)
 経理担当者向けの管理画面は、視認性と情報の網羅性を両立させています。
 <img src="images/dashboard.png" width="100%" alt="Dashboard PC View">
+<img src="images/apply2.png" width="100%" alt="Dashboard PC View">
 <!-- PC画面は幅広なのでそのまま表示 -->
 ---
 
@@ -70,7 +71,7 @@
 
 ### 📱 究極のモバイル体験 (OJI-UX)
 - **OJI-UX Toggle (おじさまスイッチ)**:
-    - ワンタップで「標準表示」と「超拡大表示（老眼対応）」を切り替え。
+    - ワンタップで「標準表示」と「超拡大表示」を切り替え。
     - 独自の巨大フォント設計とコントラスト調整により、裸眼での視認性を確保。
 - **スマホ専用撮影モード**: ブラウザからカメラを直接起動し、撮影→解析→申請までを最短フローで完結。
 
