@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-5.x-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Gemini](https://img.shields.io/badge/AI-Gemini_3.0_Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![Status](https://img.shields.io/badge/Status-v1.2.1_Released-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-v1.2.2_Released-success?style=for-the-badge)
 
 > **「迷わせず、止まらせず、あとで困らせない」**<br>
 > **会計ソフトに渡すデータを完璧にする、中小企業向けAI仕訳・経費管理システム**
