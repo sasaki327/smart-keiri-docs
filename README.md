@@ -1,4 +1,4 @@
-# SMART KEIRI｜スマート経理　
+# SMART KEIRI｜スマート経理 中小企業向けAI仕訳・経費精算システム
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-5.x-092E20?style=for-the-badge&logo=django&logoColor=white)
