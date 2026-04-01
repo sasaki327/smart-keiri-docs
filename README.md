@@ -136,3 +136,6 @@ smart-keiri/
    [👉 「多機能SaaSは使いこなせない」中小企業のために、本当に現場で回る経費精算システムを作りました](https://www.wantedly.com/users/202427126/post_articles/1052900)
 
 * **著作権:** ソースコードの著作権は開発者に帰属します。
+
+## 🔍 Keywords
+経理DX / AI仕訳 / 中小企業向けSaaS / 電子帳簿保存法対応 / インボイス制度 / Python / Django / Gemini API / 業務効率化
