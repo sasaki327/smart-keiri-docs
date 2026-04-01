@@ -129,7 +129,15 @@ smart-keiri/
 - **マルチ会計ソフト連携**: 弥生会計・freee・マネーフォワード形式のCSVエクスポートに対応。
 
 ---
+## 👨‍💻 開発者 / Author
 
+### 佐々木 良高 (Yoshitaka Sasaki)
+本業では企業のDX推進・生成AI活用をリード。現場の課題をエンジニアリングで解決するを信条に、Python/Djangoを中心とした開発を行っています。
+2026年4月1日〜会社から副業の承認を得た上で、個人プロジェクトとして「中小企業の現場で実際に使われる業務システム」の開発をスタートしました。
+
+* **Wantedly Profile**: [yoshi_sasaki_cm](https://www.wantedly.com/id/yoshi_sasaki_cm)
+* **GitHub**: [@sasaki327](https://github.com/sasaki327)
+---
 ## 📄 お問い合わせ・費用・ライセンスについて
 
 * **費用・導入詳細:** 具体的な費用やサービス内容については、以下のWantedly記事をご確認ください。お問い合わせも下記から可能です。<br>
