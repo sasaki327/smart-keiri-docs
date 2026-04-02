@@ -142,6 +142,7 @@ smart-keiri/
 
 * **費用・導入詳細:** 以下のWantedly記事をご確認ください。お問い合わせも下記から可能です。<br>
    [👉 「多機能SaaSは使いこなせない」中小企業のために、本当に現場で回る経費精算システムを作りました](https://www.wantedly.com/users/202427126/post_articles/1052900)
+ <br> [お問合せはこちら](https://forms.gle/p6dkejGyEhQumgHW9)
 
 * **著作権:** ソースコードの著作権は開発者に帰属します。
 
