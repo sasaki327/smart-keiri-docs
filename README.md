@@ -139,7 +139,7 @@ smart-keiri/
 * **開発ストーリー**: [「多機能SaaSは使いこなせない」中小企業のために、本当に現場で回る経費精算システムを作りました](https://www.wantedly.com/users/202427126/post_articles/1052900)
 * **GitHub**: [@sasaki327](https://github.com/sasaki327)
 ---
-## 📄 お問い合わせ・費用・ライセンスについて
+## 📄 導入のご相談・ライセンスについて
 
 * **お問合せ**: [お問合せフォーム](https://forms.gle/p6dkejGyEhQumgHW9)
 
