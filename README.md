@@ -141,9 +141,9 @@ smart-keiri/
 ---
 ## 📄 導入のご相談・ライセンスについて
 
-* **お問合せ**: [お問合せフォーム](https://forms.gle/p6dkejGyEhQumgHW9)
+* **お問合せ**: [お問合せフォーム](https://forms.gle/p6dkejGyEhQumgHW9)または、[Wantedlyのメッセージ](https://www.wantedly.com/id/yoshi_sasaki_cm)より承っております。
 
 * **著作権:** ソースコードの著作権は開発者に帰属します。
 
 ## 🔍 Keywords
-経理DX / AI仕訳 / 中小企業向けSaaS / 電子帳簿保存法対応 / インボイス制度 / Python / Django / Gemini API / 業務効率化
+経理DX / AI仕訳 / 中小企業向けSaaS / 電子帳簿保存法対応 / インボイス制度 / Python / Django / Gemini API / 業務効率化　/ DXコンサルティング　/ 自動化
