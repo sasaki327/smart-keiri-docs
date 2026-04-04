@@ -133,16 +133,15 @@ smart-keiri/
 
 ### 佐々木 良高 (Yoshitaka Sasaki)
 本業では企業のDX推進・生成AI活用をリード。現場の課題をエンジニアリングで解決するを信条に、Python/Djangoを中心とした開発を行っています。
-2026年4月1日〜会社から副業の承認を得た上で、個人プロジェクトとして「中小企業の現場で実際に使われる業務システム」の開発をスタートしました。
+2026年4月1日〜会社から副業の承認を得た上で、個人プロジェクトとして開発をスタートしました。
 
 * **Wantedly Profile**: [yoshi_sasaki_cm](https://www.wantedly.com/id/yoshi_sasaki_cm)
+* **開発ストーリー**: [「多機能SaaSは使いこなせない」中小企業のために、本当に現場で回る経費精算システムを作りました](https://www.wantedly.com/users/202427126/post_articles/1052900)
 * **GitHub**: [@sasaki327](https://github.com/sasaki327)
 ---
 ## 📄 お問い合わせ・費用・ライセンスについて
 
-* **費用・導入詳細:** 以下のWantedly記事をご確認ください。お問い合わせも下記から可能です。<br>
-   [👉 「多機能SaaSは使いこなせない」中小企業のために、本当に現場で回る経費精算システムを作りました](https://www.wantedly.com/users/202427126/post_articles/1052900)
- <br> [お問合せはこちら](https://forms.gle/p6dkejGyEhQumgHW9)
+* **お問合せ**: [お問合せフォーム](https://forms.gle/p6dkejGyEhQumgHW9)
 
 * **著作権:** ソースコードの著作権は開発者に帰属します。
 
