@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-5.x-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Gemini](https://img.shields.io/badge/AI-Gemini_3.0_Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/AI-Gemini_3.5_Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-v1.2.2_Released-success?style=for-the-badge)
 
 > **「迷わせず、止まらせず、あとで困らせない」**<br>
@@ -102,13 +102,19 @@ smart-keiri/
 | Category | Technology |
 | :--- | :--- |
 | **Backend** | Python 3.11+, Django 5.x |
-| **Experience** | **Google Gemini 3.0 Flash** (Generative AI) |
+| **Experience** | **Google Gemini 3.5 Flash** (Generative AI) |
 | **Public API** | 国税庁 登録事業者公表システム Web-API |
 | **Infra** | Linux VPS (Dedicated Environment), Docker |
 
 ---
 
 ## 📝 Release Notes (History)
+
+### v1.2.6 (2026/05/28)
+- **AIモデルのアップグレード (Gemini 3.5 Flashへの移行)**:
+    - 領収書OCR解析および経費精算理由生成等に使用するコアAIモデルを、従来の `Gemini 3.0 Flash (Preview)` から最新の安定版 **`Gemini 3.5 Flash`** へアップグレードしました。
+    - これにより、不鮮明なレシートの読み取り精度、レイアウト推論、およびJSON構造化データ抽出の安定性が向上しました。
+    - ローカル開発環境およびVPS環境（本番・ステージング）の `.env` 設定をすべて本モデルに更新・適用しました。
 
 ### v1.2.5 (2026/04/22)
 - **中小企業向け勘定科目の大幅拡充**: 組織運営に必須となる「給料手当」「地代家賃」「資本金」「租税公課」など12種類の主要科目を標準セットに追加。
